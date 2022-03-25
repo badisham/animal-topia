@@ -10,7 +10,6 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.userRouter = void 0;
-require("source-map-support/register");
 const router_1 = require("../engine/router");
 const client_1 = require("@prisma/client");
 const prisma = new client_1.PrismaClient();
