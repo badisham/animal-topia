@@ -1,0 +1,20 @@
+{
+    "name": "animal-topia",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/badisham/animal-topia.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/badisham/animal-topia/issues"
+    },
+    "homepage": "https://github.com/badisham/animal-topia#readme"
+}
