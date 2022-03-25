@@ -32,9 +32,9 @@ const getUser = {
     name: true,
     email: true,
     old: true,
-    cash: true,
+    // cash: true,
+    // mvpNum: true,
     currentCharacterID: true,
-    mvpNum: true,
     point: true
 };
 currentRouter.post('/register', (req, _req) => __awaiter(void 0, void 0, void 0, function* () {
