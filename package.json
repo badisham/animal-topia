@@ -16,5 +16,15 @@
     "bugs": {
         "url": "https://github.com/badisham/animal-topia/issues"
     },
-    "homepage": "https://github.com/badisham/animal-topia#readme"
+    "homepage": "https://github.com/badisham/animal-topia#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "env-cmd": "^10.1.0",
+        "express": "^4.17.2",
+        "jsonwebtoken": "^8.5.1",
+        "moment": "^2.29.1",
+        "multer": "^1.4.4",
+        "uuid": "^8.3.2"
+    }
 }
