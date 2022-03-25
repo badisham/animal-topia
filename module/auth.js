@@ -31,7 +31,7 @@ const getUser = {
     ID: true,
     name: true,
     email: true,
-    old: true,
+    // old: true,
     // cash: true,
     // mvpNum: true,
     currentCharacterID: true,
