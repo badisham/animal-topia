@@ -18,9 +18,9 @@ const getUser = {
     ID: true,
     name: true,
     email: true,
-    cash: true,
+    // cash: true,
+    // mvpNum: true,
     currentCharacterID: true,
-    mvpNum: true,
     point: true
 };
 currentRouter.get('/ranking', (req, _req) => __awaiter(void 0, void 0, void 0, function* () {
